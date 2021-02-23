@@ -1,0 +1,19 @@
+{
+  "name": "relationshipmanagement",
+  "version": "1.0.0",
+  "description": "adding and identifying the relations of king shan family",
+  "main": "geektrust.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajeshbaramol/RelationshipManagement.git"
+  },
+  "author": "rajesh baramol",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajeshbaramol/RelationshipManagement/issues"
+  },
+  "homepage": "https://github.com/rajeshbaramol/RelationshipManagement#readme"
+}
